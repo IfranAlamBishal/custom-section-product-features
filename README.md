@@ -24,9 +24,13 @@ The section is fully customizable via the Shopify Theme Editor and optimized for
 
 # ✅ How to Install
 
-## 1. Open Theme Code Editor
+Follow these steps to install and use the Custom File Upload section in your Shopify theme:
 
-  - Go to: Online Store → Themes → ⋯ (More) → Edit code
+## 1. Open Your Shopify Theme Code Editor
+
+- From your Shopify admin, go to: Online Store → Themes
+
+- Find your active theme, then click ⋯ (More) → Edit code.
 
 ## 2. Create a New Section
 

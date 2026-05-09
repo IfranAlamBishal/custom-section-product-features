@@ -122,10 +122,10 @@ The section is fully customizable via the Shopify Theme Editor and optimized for
 
    Each feature block includes:
 
-    - Icon
-    - Title
-    - Optional subheading
-    - Description
+  - Icon
+  - Title
+  - Optional subheading
+  - Description
 
  ## On mobile:
 
@@ -147,19 +147,19 @@ The section is fully customizable via the Shopify Theme Editor and optimized for
 
 # ✅ Key Features
 
-  Fully customizable via Theme Editor
+  - Fully customizable via Theme Editor
 
-  Dual-column feature layout
+  - Dual-column feature layout
 
-  Center image with optional animation
+  - Center image with optional animation
 
-  Flexible icon positioning (left, right, top)
+  - Flexible icon positioning (left, right, top)
 
-  Per-block alignment control
+  - Per-block alignment control
 
-  Mobile-optimized responsive design
+  - Mobile-optimized responsive design
 
-  Clean and premium UI
+  - Clean and premium UI
 
 # 🧩 Tips
 

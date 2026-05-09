@@ -194,3 +194,6 @@ The Custom Product Features Section provides a modern and flexible way to presen
 It enhances storytelling, improves user engagement, and helps communicate value clearly—without requiring any third-party apps.
 
 A perfect solution for brands that want a clean, premium, and conversion-focused feature section.
+
+# 📜 License
+This code is licensed under the MIT License.

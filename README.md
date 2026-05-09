@@ -20,7 +20,7 @@ Perfect for:
 
 The section is fully customizable via the Shopify Theme Editor and optimized for all devices.
 
-<img width="1900" height="490" alt="Custom Product Features Section"  src="https://github.com/user-attachments/assets/ab8748dc-cfee-4ee0-bed6-9f9b959e395c" />
+<img width="1900" height="750" alt="Custom Product Features Section"  src="https://github.com/user-attachments/assets/ab8748dc-cfee-4ee0-bed6-9f9b959e395c" />
 
 # ✅ How to Install
 
